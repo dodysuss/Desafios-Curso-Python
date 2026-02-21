@@ -28,3 +28,17 @@ Lista3: Funcionários que não tem carro;
  **Turno da Noite:** Pedro, Sophia, Bruno.
 
  **Tem Carro:** Marcos, Alice, Bruno e Melissa.
+
+ ## Calculadora de IMC
+ Cálculo de IMC - Índice de Massa Corporal
+
+ ### Entradas:
+ - Altura em cm
+ - Peso em Kg
+
+ ### Saída
+ - Menos que 18,5: Magreza
+ - Entre 18,6 e 24,9: Normal
+ - Entre 25,0 e 29,9: Sobrepeso
+ - Entre 30,0 e 39,9: Obesidade
+ - Maior que 40,0: Obesidade Grave
